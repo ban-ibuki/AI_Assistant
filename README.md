@@ -12,6 +12,6 @@
 ## 必要なソフトウェア
 
 1. LM Studio
-  Qwen2.5-VL-7B-Instruct
+2. Qwen2.5-VL-7B-Instruct
 
-2. Stable Diffusion
+3. Stable Diffusion
