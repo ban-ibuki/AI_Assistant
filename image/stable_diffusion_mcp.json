@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "stable-diffusion": {
+      "command": "node",
+      "args": [
+        "C:/image-gen-mcp-main/build/index.js"
+      ],
+      "env": {
+        "SD_WEBUI_URL": "http://127.0.0.1:7860"
+      }
+    }
+  }
+}
